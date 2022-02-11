@@ -12,7 +12,9 @@ namespace ConsoleApp1
     {
         Console.WriteLine("Hello, world!");
 		Console.WriteLine("My name Anastasia");
+		Console.WriteLine("Saint Petersburg");
         Console.ReadLine();
     }
     }
 }
+
